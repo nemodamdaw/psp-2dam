@@ -1,0 +1,5 @@
+nombre,edad,pais,peso,nota,fecha,aficiones,lesionado,otra
+pepe,20,italia,87.3,10,11-07-2021 15:00, leer; yoga;dormir,cierto,20.5
+ana,18,portugal,67.2,10,21-09-2021 16:45,leer;yoga;beber vino,falso,23.564
+juan,23,francia,75.6,,13-12-2020 20:10,dormir,falso,28
+pedro,30,portugal,79.1,9,17-3-2022 01:20,ajedrez;yoga,falso,25

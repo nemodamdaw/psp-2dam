@@ -1,0 +1,6 @@
+nombre,edad,pais,peso
+pepe,20,italia,87.3
+ana,18,portugal,67.2
+juan,23,francia,70.6
+pedro,30,portugal,79.1
+pepin,20,italia,47.3
