@@ -1,0 +1,6 @@
+id,fecha,cliente,producto,cantidad,precio,beneficio
+2051, 04/06/2019, ClienteB, ProductoC, 11, 7.60, 2.67
+2052, 05/06/2019, ClienteC, ProductoA, 10, 4.00, 2.0
+2053, 03/06/2019, ClienteA, ProductoC, 3, 3.00, 3.0
+2054, 04/05/2018, ClienteB, ProductoB, 2, 10.0, 1.0
+2053, 07/05/2018, ClienteA, ProductoB, 5, 15.0, 10.0
