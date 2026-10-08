@@ -1,0 +1,6 @@
+fecha, rival, superficie, duracion,juegos_ganados, juegos_perdidos, ganado
+11/10/2020,Novak Djokovic,Tierra,160,19,7,True
+11/10/2021,Pepe,Tierra,180,18,15,True
+11/02/2020,Juan,Hierba,120,11,17,False
+11/10/2020,Novak Djokovic,Tierra,150,30,7,True
+11/10/2020,Novak Djokovic,Tierra,180,10,40,False
