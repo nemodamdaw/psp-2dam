@@ -40,7 +40,7 @@ def test_nombre_atletas_por_pais(registros):
 
 if __name__ == "__main__":
     print('Olimpiadas')
-    registros=leer_olimpiadas('./Olimpiadas/data/atletas.txt')
+    registros=leer_olimpiadas('./Tema0-Practica1-Olimpiadas/data/atletas.txt')
     test_lee_olimpiadas(registros)
     test_edad_media(registros)
     test_num_atletas_por_pais(registros)
