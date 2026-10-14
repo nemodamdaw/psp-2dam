@@ -17,10 +17,11 @@ def leer_olimpiadas(nombre):
     return registros
 
 def edad_media(registros):
-    res=0.0
-    for r in registros:
-        res+=r.edad
-    return res/len(registros)
+    suma=0.0
+    lis=[r.edad for r in registros]
+    suma=sum(lis)
+    media = suma/len(registros)
+    return media
 
 # private List<Atleta> registros;
 # Map<String,Integer> numAtletasPorPais(){
