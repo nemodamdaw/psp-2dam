@@ -1,0 +1,3 @@
+#python -m pip install -r Tema1-API-REST/requirements.txt
+fastapi[standard]
+requests
