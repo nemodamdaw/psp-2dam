@@ -54,3 +54,9 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as servidor:
 
 # Al salir de los bloques with se cierran los sockets.
 print("Servidor finalizado.")
+
+
+# Prueba con:
+# print("Socket servidor:", servidor.getsockname())
+# print("Socket conexión:", conexion.getsockname())
+# print("Cliente remoto:", conexion.getpeername())
