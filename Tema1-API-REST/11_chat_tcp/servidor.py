@@ -17,13 +17,6 @@ PUERTO = 5001
 # Creamos el socket TCP del servidor.
 with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as servidor:
 
-    # Permite reutilizar el puerto al reiniciar el servidor.
-    servidor.setsockopt(
-        socket.SOL_SOCKET,
-        socket.SO_REUSEADDR,
-        1
-    )
-
     servidor.bind((HOST, PUERTO))
     servidor.listen(1)
 
